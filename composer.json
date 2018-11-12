@@ -3,6 +3,7 @@
     "description": "ApplicationInsightsCake plugin for CakePHP",
     "type": "cakephp-plugin",
     "license": "MIT",
+    "homepage": "https://github.com/guerrerotook/application-insights-cakephp",
     "require": {
         "cakephp/cakephp": "^3.5",
         "microsoft/application-insights": "*"

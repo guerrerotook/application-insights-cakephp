@@ -5,7 +5,7 @@
     "license": "MIT",
     "homepage": "https://github.com/guerrerotook/application-insights-cakephp",
     "require": {
-        "cakephp/cakephp": "^3.5",
+        "cakephp/cakephp": "^3.3",
         "microsoft/application-insights": "*"
     },
     "require-dev": {
